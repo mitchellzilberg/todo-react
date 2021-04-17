@@ -1,8 +1,6 @@
 import React, {useState, useEffect} from 'react';
 import './App.css';
 
-  // "homepage": "https://myusername.github.io",
-
 
 // components
 import Form from './components/Form';
